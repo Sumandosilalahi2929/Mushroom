@@ -1,5 +1,5 @@
 ### Hi there 👋
-Saya Sumando Silalahi. Saya mahasiswa jurusan Sistem Informasi di Universitas Mikroskil Kota Medan, Sumatera Utara. Saya Memiliki Minat menjadi Back End Developer, Saat ini saya sedang Merintis ilmu untuk mewujudkan Karir Saya.
+
 <!--
 **Sumandosilalahi2929/Sumandosilalahi2929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
